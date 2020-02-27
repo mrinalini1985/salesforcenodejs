@@ -20,7 +20,7 @@
   },
   "defaultTimezone": "America/Los_Angeles",
   "webhook": {
-    "url": "https://salesforce-google-assistant.herokuapp.com/",
+    "url": "https://nodejssalesforcehacker.herokuapp.com/",
     "username": "",
     "headers": {
       "": ""
