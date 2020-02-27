@@ -4,7 +4,7 @@
   "disableInteractionLogs": false,
   "googleAssistant": {
     "googleAssistantCompatible": true,
-    "project": "salesforcebot-7bffc",
+    "project": "newagent-mkoots",
     "welcomeIntentSignInRequired": false,
     "startIntents": [],
     "systemIntents": [],
