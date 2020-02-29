@@ -6,7 +6,7 @@ let proxyURL = 'https://hackeratos-developer-edition.na174.force.com/services/ap
 export class SalesforceProxy {
 
   showReport(report: Report) 
-  alert('showing report in proxy');
+  {
     return axios.post(proxyURL + '/showreport', report, {headers: {'Content-Type': 'application/json'}});
   }
 };
